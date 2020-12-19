@@ -2,10 +2,10 @@
 templateKey: index-page
 title: Great coffee with a conscience
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Streamline Your Business.
+subheading: Super fast documents and forms, delivered digitally.
 mainpitch:
-  title: Why Kaldi
+  title: What is Zippy Docs?
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
