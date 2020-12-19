@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Streamline Your Business.
 image: /img/home-jumbotron.jpg
 heading: Streamline Your Business.
 subheading: Super fast documents and forms, delivered digitally.
