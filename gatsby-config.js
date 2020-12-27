@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Zippy Forms | Fast, Secure Digital Forms and Documents',
+    title: 'Zippy Docs | Fast, Secure Digital Forms and Documents',
     description:
-      'Zippy Forms makes your life easy by digitising all of your forms and documents.',
+      'Digi Forms makes your life easy by digitising all of your forms and documents.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

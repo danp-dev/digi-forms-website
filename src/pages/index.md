@@ -5,9 +5,9 @@ image: /img/home-jumbotron.jpg
 heading: Streamline Your Business.
 subheading: Super fast documents and forms, delivered digitally.
 mainpitch:
-  title: What is Zippy Forms?
+  title: What is Digi Forms?
   description: >
-    Zippy forms makes your life easy by digitising all of your "old-school" forms.
+    Digi Forms makes your life easy by digitising all of your "old-school" forms.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
