@@ -30,7 +30,7 @@ export const IndexPageTemplate = ({
       }}
       
     >*/}
-       <section className="hero is-primary">
+       <section className="hero is-primary is-bold">
   <div className="hero-body">
     <div className="container">
       <div className="columns">
@@ -38,7 +38,7 @@ export const IndexPageTemplate = ({
           <h1
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
-            backgroundColor: 'rgb(94, 181, 214, 0.41)',
+            
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -49,7 +49,7 @@ export const IndexPageTemplate = ({
         <h3
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
-            backgroundColor: 'rgb(94, 181, 214, 0.41)',
+            
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -69,9 +69,6 @@ export const IndexPageTemplate = ({
 
       
     {/*</div>*/}
-
-   
-
 
     <section className="section section--gradient">
       <div className="container">

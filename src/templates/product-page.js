@@ -19,26 +19,31 @@ export const ProductPageTemplate = ({
   pricing,
 }) => (
   <div className="content">
-    <div
+    <section className="hero is-primary is-bold">
+    {/*<div
       className="full-width-image-container margin-top-0"
       style={{
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
       }}
-    >
+    >*/}
+    <div className="hero-body">
+    <div className="container">
       <h2
-        className="has-text-weight-bold is-size-1"
+        className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
         style={{
-          boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
-          backgroundColor: '#f40',
+          
           color: 'white',
           padding: '1rem',
         }}
       >
         {title}
       </h2>
-    </div>
+      </div>
+      </div>
+    {/*</div>*/}
+    </section>
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
