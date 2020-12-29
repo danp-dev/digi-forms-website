@@ -34,7 +34,8 @@ export const IndexPageTemplate = ({
   <div className="hero-body">
     <div className="container">
       <div className="columns">
-        <div className="column is-6"><h1
+        <div className="column is-6">
+          <h1
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
             backgroundColor: 'rgb(94, 181, 214, 0.41)',
@@ -58,7 +59,7 @@ export const IndexPageTemplate = ({
         </h3>
       </div>
       <div className="column is-6">
-      <div className="image is-square"><img src={headerimage} ></img></div>
+      <div><img src={headerimage} ></img></div>
      
       </div>
       </div>
