@@ -6,6 +6,9 @@ import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
 
+import headerimage from '../img/digi-forms-header-screens.png'
+
+
 export const IndexPageTemplate = ({
   image,
   title,
@@ -27,22 +30,16 @@ export const IndexPageTemplate = ({
       }}
       
     >
-      <div
-        style={{
-          display: 'flex',
-          height: '150px',
-          lineHeight: '1',
-          justifyContent: 'space-around',
-          alignItems: 'left',
-          flexDirection: 'column',
-        }}
-      >
-        <h1
+       <section className="hero is-primary">
+  <div className="hero-body">
+    <div className="container">
+      <div className="columns">
+        <div className="column is-6"><h1
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
             boxShadow:
               'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(81,80,82)',
+            backgroundColor: 'rgb(94, 181, 214)',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -55,7 +52,7 @@ export const IndexPageTemplate = ({
           style={{
             boxShadow:
               'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(81,80,82)',
+            backgroundColor: 'rgb(94, 181, 214)',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -64,7 +61,21 @@ export const IndexPageTemplate = ({
           {subheading}
         </h3>
       </div>
+      <div className="column is-6">
+      <div className="image is-square"><img src={headerimage} ></img></div>
+     
+      </div>
+      </div>
     </div>
+  </div>
+</section>
+
+      
+    </div>
+
+   
+
+
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
