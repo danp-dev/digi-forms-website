@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Zippy Docs | Fast, Secure Digital Forms and Documents',
+    title: 'Digi Forms | Fast, Secure Digital Forms and Documents',
     description:
       'Digi Forms makes your life easy by digitising all of your forms and documents.',
   },
