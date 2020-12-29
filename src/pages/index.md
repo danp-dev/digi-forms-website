@@ -1,5 +1,5 @@
 ---
-templateKey: index-page
+templateKey: 'index-page'
 title: Streamline Your Business.
 image: /img/home-jumbotron.jpg
 heading: Streamline Your Business.
