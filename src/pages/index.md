@@ -9,10 +9,9 @@ mainpitch:
   description: >
     Digi Forms makes your life easy by digitising all of your "old-school" forms.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Digi Forms makes everything easy. You simply provide us with a copy of your paper forms and we take
+  care of the rest. If you are not sure where to start you can always head over to our pre-made forms section and 
+  purchase something 'off the shelf' to suit your needs. 
 intro:
   blurbs:
     - image: /img/coffee.png
